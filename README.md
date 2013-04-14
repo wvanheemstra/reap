@@ -1,7 +1,7 @@
 reap
 ====
 
-The reporting layer.
+The report layer.
 
 *See [reap readme] [1] in the docs reap docs subfolder.*
 [1]: ../../../docs/blob/master/reap/README.md "reap readme"
